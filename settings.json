@@ -1,0 +1,8 @@
+{
+  "election": "dz2026",
+  "base_url": "https://volitve.dvk-rs.si",
+  "interval_seconds": 30,
+  "output_dir": ".",
+  "stoli_template": "stoli.csv",
+  "udelezba_template": "udelezba.csv"
+}
